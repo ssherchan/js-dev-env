@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 94320833,
+      "firstName": "Issac",
+      "lastName": "Powlowski",
+      "email": "Bette_Langosh21@gmail.com"
+    },
+    {
+      "id": 26535708,
+      "firstName": "Mercedes",
+      "lastName": "McKenzie",
+      "email": "Amir.Lueilwitz8@gmail.com"
+    },
+    {
+      "id": 82291007,
+      "firstName": "Olga",
+      "lastName": "Osinski",
+      "email": "Reed18@gmail.com"
+    },
+    {
+      "id": 14678540,
+      "firstName": "Jesse",
+      "lastName": "Stanton",
+      "email": "Sigurd.Zieme@gmail.com"
+    }
+  ]
+}
